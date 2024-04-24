@@ -8,7 +8,7 @@
     "nanoassert": "^2.0.0"
   },
   "devDependencies": {
-    "blake2b": "^1.2.0",
+    "blake2b": "git+https://github.com/ysmservice/blake2b.git",
     "browserify": "^14.4.0",
     "tape": "^4.6.3",
     "wasm-tools": "^0.2.0"
